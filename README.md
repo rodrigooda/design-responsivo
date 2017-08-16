@@ -1,2 +1,2 @@
 # design-responsivo
-Curso git
+Curso Design Responsivo
